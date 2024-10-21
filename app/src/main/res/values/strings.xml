@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Media Master</string>
+    <string name="Full_Space">Used: %1$d GB </string>
+    <string name="Free_Space">Available: %1$d GB</string>
+    <string name="Images">Images</string>
+    <string name="Videos">Videos</string>
+    <string name="Contact">Contacts</string>
+    <string name="Document">Documents</string>
+    <string name="Audio">Audio</string>
+    <string name="Used_In_Percentage">Used: %1$d%%</string>
+    <string name="contactname">Contact Name</string>
+    <string name="contactno">Contact Number</string>
+    <string name="audio_file_name_label">Name is: %1$s</string>
+    <string name="audio_file_size_label">Size is: %1$s</string>
+    <string name="contact_name_label">Name is: %1$s</string>
+    <string name="contact_number_label">Number is: %1$s</string>
+
+</resources>
